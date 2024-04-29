@@ -19,4 +19,6 @@ This is a frontend project about the famous TV show "You" by Netflix. The projec
 ## 📸 Screenshots
 
 <img src="https://github.com/ii4k5/YOU.project/assets/168467834/2accff3c-a39a-44fa-9f44-f31af689be41" alt="Screenshot" width="50%">
+<img src="https://github.com/ii4k5/YOU.project/assets/168467834/e0479dfb-c985-4cf4-8d5d-e9ed8fe7fc90" alt="Screenshot" width="50%">
+
 <img src="https://github.com/ii4k5/YOU.project/assets/168467834/3bfb0fc4-66d0-40a7-9e1f-883de7aab107" alt="Screenshot" width="50%">
