@@ -1,0 +1,188 @@
+#youS2 {
+body {background-color: rgb(18, 10, 49) ;}
+#series-summarym1 {
+  border: 4px solid rgb(255, 255, 255);
+  font-size: small;
+  padding: 20px;
+  font-family: Snell Roundhand, cursive;
+  color: rgb(17, 41, 61);
+position: absolute;
+left: 860px;
+top: 120px;
+background-color: rgb(228, 218, 184);
+}
+  #img1mm {
+width: 175px;
+height: 250px;
+position: absolute;
+top: 67px;
+left: 675px;
+border-radius: 20px;
+border: 2px solid rgb(255, 255, 255);}
+#theme-togglem{position: absolute;
+  top: 67px;
+  left: 425px;
+border-radius: 20px;
+padding: 5px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(228, 218, 184) ;}
+  #MAINHEADER {position: absolute;
+  left: 85px;
+  top: 0px;
+  color:aliceblue;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 40px;
+  padding: 10px;
+  border: 8px solid rgb(228, 218, 184) ;
+  }
+  #vid1-MM {
+    filter: brightness(160%);
+  width: 310px;
+height: 360px;
+position: absolute;
+  left: 90px;
+top : 120px;
+  border: 4px solid rgb(228, 218, 184);
+}
+  .series-summarym2{position: absolute;
+    left: 880px;
+top: 115px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(25, 21, 57);
+
+  }
+  #p2m{position: absolute;
+left: 410px;
+top: 150px;
+color: rgb(20, 18, 63);
+background-color: rgb(228, 218, 184);
+font-size: small;
+border: 3px solid rgba(255, 255, 255, 0.957);
+padding: 2px;}
+.about-youm2{position: absolute;
+left: 410px;
+top: 125px;
+color: rgb(228, 218, 184);}
+#sec-navM{position: absolute;
+left: 860px;
+top: 65px;
+font-size: larger;
+color:rgb(57, 28, 120) ;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+border: 3px solid rgba(255, 255, 255, 0.957);
+background-color: rgb(228, 218, 184);
+padding: 15px}
+#book-headerM {position: absolute;
+left: 100px;
+top: 900px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(228, 218, 184);
+border: 3px solid rgba(252, 252, 252, 0.957);
+padding: 6px;}
+#img2mm {
+position: absolute;
+left: 500px;
+  top: 920px;
+  width: 240px;
+height: 320px;
+border: 2px solid rgb(255, 255, 255);
+}
+#NovelSummaryMM{position: absolute;
+  left: 100px;
+  top: 950px;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(228, 218, 184);
+  padding: 2px;
+font-size: large;
+font-weight: bold;
+font-family: 'Courier New', Courier, monospace}
+#NovelPagesMM{position: absolute;
+  left: 100px;
+  top: 1010px;
+shape-image-threshold: calc();
+color: rgb(27, 17, 71);
+background-color: rgb(228, 218, 184);
+border: 3px solid rgba(255, 255, 255, 0.957);
+padding: 4px;
+}
+.actorsMM{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+    width: 300px;
+  position: absolute;
+left: 100px;
+color: rgb(24, 21, 66);
+border-radius: 25px;
+background-color: rgb(228, 218, 184);
+padding: 20px;
+top: 335px;
+left: 620px;}
+#commentMM {position: absolute;
+top: 850px;
+left: 870px;
+color: rgb(32, 16, 61);
+font-size: larger;
+font-weight: bold;
+width: 320px;
+height: 110px;
+background-color:  rgb(228, 218, 184);
+border: 3px solid rgba(255, 255, 255, 0.957);
+padding: 4px;}
+#commentMM button {border-radius: 10px;
+}
+#comment-form{position: absolute;
+  top: 1010px;
+  left: 870px;
+  color: rgb(32, 16, 61);
+  font-size: larger;
+  font-weight: bold;
+  width: 320px;
+  height: 110px;
+  background-color:  rgb(228, 218, 184);
+  border: 3px solid rgba(255, 255, 255, 0.957);
+  padding: 4px;}
+  #comment-form button{border-radius: 20px;
+    }
+  #comments-container{position: absolute;
+    top: 1200px;
+    left: 870px;
+  background-color:rgb(228, 218, 184); 
+  color: rgb(6, 6, 58);
+border-radius: 20px;
+}
+#vid2-MM {position: absolute;
+  top: 480px;
+  left: 875px; 
+  width: 320px;
+  filter: brightness(160%);
+  height: 335px;
+  border: 3px solid  rgb(228, 218, 184);}
+  #mid-headerMM {position: absolute;
+    top: 550px;
+    left: 370px;
+  color: rgb(228, 218, 184);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 3px;
+  }
+  #to-the-novelMM {position: absolute;
+    top: 750px;
+    left: 75px; 
+  color: rgb(23, 14, 62);
+background-color: rgb(228, 218, 184);
+border: 3px solid rgba(255, 255, 255, 0.957);
+padding: 4px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; } 
+#endingMM {position: absolute;
+  top: 1300px;
+  left: 840px; 
+  color: rgb(228, 218, 184);
+  border: 0ch;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.youtubeMM {position: absolute;
+  top: 1190px;
+  left: 90px; 
+width: 400px;
+height: 250px;}
+}
